@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin/default"/>
+	<classpathentry output="bin/main" kind="src" path="src/main/java">
+		<attributes>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry output="bin/test" kind="src" path="src/test/java">
+		<attributes>
+			<attribute name="gradle_scope" value="test"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
+	<classpathentry sourcepath="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-server/9.4.12.v20180830/712340530c033db88c90be6d9b89dad432af07ea/jetty-server-9.4.12.v20180830-sources.jar" kind="lib" path="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-server/9.4.12.v20180830/b0f25df0d32a445fd07d5f16fff1411c16b888fa/jetty-server-9.4.12.v20180830.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/com.newrelic.agent.java/newrelic-agent/6.4.0/e640c171a471a3cf07a6ab7c248640ffc9e10953/newrelic-agent-6.4.0-sources.jar" kind="lib" path="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/com.newrelic.agent.java/newrelic-agent/6.4.0/716c0521d4baa12d9f2b0a005e1ee06a9c180214/newrelic-agent-6.4.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/com.newrelic.agent.java/newrelic-api/6.4.0/3f31215c788ccdbee6caecdfd9aabec579b84019/newrelic-api-6.4.0-sources.jar" kind="lib" path="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/com.newrelic.agent.java/newrelic-api/6.4.0/d0e5901678a35d963ba3855edbcaf9fc530c4bc0/newrelic-api-6.4.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.1.0/ab3976d4574c48d22dc1abf6a9e8bd0fdf928223/javax.servlet-api-3.1.0-sources.jar" kind="lib" path="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.1.0/3cd63d075497751784b2fa84be59432f4905bf7c/javax.servlet-api-3.1.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-http/9.4.12.v20180830/f81d12f4cd8092a20fa94ff6a3dda539c87b56e2/jetty-http-9.4.12.v20180830-sources.jar" kind="lib" path="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-http/9.4.12.v20180830/1341796dde4e16df69bca83f3e87688ba2e7d703/jetty-http-9.4.12.v20180830.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/9.4.12.v20180830/fd1ba72f65b9c940ae1552559876d9953f6b44be/jetty-io-9.4.12.v20180830-sources.jar" kind="lib" path="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/9.4.12.v20180830/e93f5adaa35a9a6a85ba130f589c5305c6ecc9e3/jetty-io-9.4.12.v20180830.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-util/9.4.12.v20180830/af01f7eb3e5b9019ebce9637810041dbf5e3560d/jetty-util-9.4.12.v20180830-sources.jar" kind="lib" path="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-util/9.4.12.v20180830/cb4ccec9bd1fe4b10a04a0fb25d7053c1050188a/jetty-util-9.4.12.v20180830.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/org.nanohttpd/nanohttpd/2.3.1/c820129da77c30b2e4ea1cea619d7f589a17bcdd/nanohttpd-2.3.1-sources.jar" kind="lib" path="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/org.nanohttpd/nanohttpd/2.3.1/a8d54d1ca554a77f377eff6bf9e16ca8383c8f6c/nanohttpd-2.3.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/gsidhwani/Documents/GitHub/Experimental/newrelic-java-clojure/libs/agent-bridge-datastore.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/gsidhwani/Documents/GitHub/Experimental/newrelic-java-clojure/libs/agent-bridge.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/gsidhwani/Documents/GitHub/Experimental/newrelic-java-clojure/libs/newrelic-agent-6.4.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/gsidhwani/Documents/GitHub/Experimental/newrelic-java-clojure/libs/newrelic-weaver-scala-api.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/gsidhwani/Documents/GitHub/Experimental/newrelic-java-clojure/libs/newrelic-weaver-api.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/gsidhwani/Documents/GitHub/Experimental/newrelic-java-clojure/libs/newrelic-api.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/gsidhwani/Documents/GitHub/Experimental/newrelic-java-clojure/test-lib/instrumentation-test.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+</classpath>
