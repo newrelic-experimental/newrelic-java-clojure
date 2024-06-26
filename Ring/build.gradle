@@ -27,7 +27,5 @@ jar {
 }
 
 verifyInstrumentation {
-  //passes ('ring:ring:[1.7.1,)') {
-  //  compile ('ring:ring-jetty-adapter:1.7.1')
- // }
+  passes ('ring:ring:[1.7.1]'
 }
